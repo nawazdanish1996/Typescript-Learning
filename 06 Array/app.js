@@ -5,10 +5,8 @@ Array in Typescript
     Mixed array
     Define array type
 */
-
-let data = ["Nawaz", 26, "West Bengal", "India"];
+var data = ["Nawaz", 26, "West Bengal", "India"];
 data.push(5);
 data.shift();
 console.log(data);
-
-let data1:string[] = ["Nawaz", "West Bengal", "India"];
+var data1 = ["Nawaz", "West Bengal", "India"];
