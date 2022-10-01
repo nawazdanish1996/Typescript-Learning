@@ -1,0 +1,1 @@
+Watch/live Mode command: tsc first.ts --watch
