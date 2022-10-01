@@ -1,0 +1,4 @@
+Before installation typescript node and npm should be installed in Pc.
+
+Install Typescript: npm install -g typescript
+check version: tsc -v
